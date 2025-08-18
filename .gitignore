@@ -178,3 +178,7 @@ cython_debug/
 *.code-workspace
 .vscode
 AI_Agents.code-workspace
+
+.sqlite3
+.db
+
